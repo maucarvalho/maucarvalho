@@ -2,4 +2,4 @@
 
 🇧🇷 Born in São Leopoldo-RS, Brazil <br />
 🇧🇷 Living in Florianópolis-SC, Brazil <br />
-🚀 ITOps at [Studos](https://studos.com.br) <br />
+🚀 ITOps at [Studos](https://studos.com.br) <br /> 
