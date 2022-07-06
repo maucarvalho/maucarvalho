@@ -3,4 +3,4 @@
 🇧🇷 Born in São Leopoldo-RS, Brazil <br />
 🇧🇷 Living in Florianópolis-SC, Brazil <br />
 🚀 SRE | DevOps Engineer at [Arcotech](https://arcoeducacao.com.br/) <br /> 
-🖥 [Linkedin](https://www.linkedin.com/in/maaucarvalho/) <br /> 
+🖥 [LinkedIn](https://www.linkedin.com/in/maaucarvalho/) <br /> 
